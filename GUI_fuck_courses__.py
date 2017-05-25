@@ -1,3 +1,4 @@
+__author__ = 'Boris'
 __ver__ = 'beta 0.1'
 __is_test__ = True
 
