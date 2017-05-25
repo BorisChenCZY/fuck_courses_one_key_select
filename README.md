@@ -2,7 +2,9 @@
 
 This is a course_select_system. Due to a lot of consideration, the code is open source.
 
-Things need to be done:
+This project is develped based on [sustc_framework](https://github.com/BorisChenCZY/sustc_framework)
+
+A few moer things need to be done in the near(?) future:
 
 - rewrite in SVM model.
 - use database to speed up query.
