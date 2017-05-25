@@ -1,0 +1,5 @@
+*.spec
+*.ui
+build
+*.ico
+__pycache__

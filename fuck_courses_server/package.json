@@ -1,0 +1,20 @@
+{
+  "name": "fuck_courses_server",
+  "version": "0.0.1",
+  "description": "This is a gift",
+  "main": "fuck_courses_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "crypto": "0.0.3",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2",
+    "utility": "^1.12.0"
+  }
+}
