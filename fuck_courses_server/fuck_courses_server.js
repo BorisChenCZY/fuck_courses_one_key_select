@@ -28,7 +28,7 @@ function decipher(algorithm, key, encrypted,cb){
     cb(decrypted);
 }
 
-cipher('aes-256-ctr', '11510237', 'BorisSpecialOffer', function(decrypted){
+cipher('aes-256-ctr', '11610904', 'BorisSpecialOffer', function(decrypted){
   console.log(decrypted)
 })
 

@@ -127,7 +127,7 @@ class Ui_MainWindow(object):
         self.choose_Button.setObjectName("choose_Button")
         self.middle_button_group.addWidget(self.choose_Button)
         self.select_to_death_Button = QtWidgets.QPushButton(self.layoutWidget2)
-        self.select_to_death_Button.setEnabled(True)
+        self.select_to_death_Button.setEnabled(False)
         self.select_to_death_Button.setObjectName("select_to_death_Button")
         self.middle_button_group.addWidget(self.select_to_death_Button)
         self.unchoose_Button = QtWidgets.QPushButton(self.layoutWidget2)
